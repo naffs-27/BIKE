@@ -1,0 +1,7 @@
+{
+  "name": "ApexLine Moto – Motorcycle Horsepower & Performance Guide",
+  "description": "Comprehensive motorcycle horsepower guides, engine tiers, dyno dynamics, interactive HP calculators, and detailed bike comparisons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
