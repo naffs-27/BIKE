@@ -19,7 +19,7 @@ export const ARTICLES: Article[] = [
     },
     publishDate: 'October 12, 2026',
     readTime: '8 min read',
-    image: '/src/assets/images/engine_dyno_mechanics_1791972579927.jpg',
+    image: '/images/engine_dyno_mechanics.jpg',
     imageCaption: 'A motorcycle test rig exposing cylinder head cams, titanium exhaust manifolds, and precision dyno load sensors.',
     keyTakeaways: [
       'Horsepower is a calculated mathematical rate of doing work: HP = (Torque in lb-ft × RPM) / 5,252.',
@@ -176,7 +176,7 @@ export const ARTICLES: Article[] = [
     },
     publishDate: 'October 10, 2026',
     readTime: '10 min read',
-    image: '/src/assets/images/hero_green_superbike_1791972579451.jpg',
+    image: '/images/hero_green_superbike.jpg',
     imageCaption: 'A modern emerald-green middleweight superbike engineered to balance 125 HP precision with razor-sharp road ergonomics.',
     keyTakeaways: [
       '10 to 25 HP: Urban and entry-level class, ideal for learning clutch finesse with zero intimidation.',
@@ -342,7 +342,7 @@ export const ARTICLES: Article[] = [
     },
     publishDate: 'October 8, 2026',
     readTime: '9 min read',
-    image: '/src/assets/images/aerodynamic_speed_bike_1791972606456.jpg',
+    image: '/images/aerodynamic_speed_bike.jpg',
     imageCaption: 'A sculpted aerodynamic superbike engineered with wind-tunnel bodywork to slice through atmospheric drag on an open runway.',
     keyTakeaways: [
       'Power-to-weight ratio governs 0-100 mph acceleration far more than gross horsepower figures.',
@@ -502,7 +502,7 @@ export const ARTICLES: Article[] = [
     },
     publishDate: 'October 6, 2026',
     readTime: '11 min read',
-    image: '/src/assets/images/beginner_lightweight_bike_1791972581822.jpg',
+    image: '/images/beginner_lightweight_bike.jpg',
     imageCaption: 'A nimble forest-green entry roadster parked along a scenic coastal pass, exemplifying ideal beginner-to-intermediate proportions.',
     keyTakeaways: [
       'Beginner bracket (25 to 50 HP): Low mass, friendly clutch friction zones, and forgive accidental throttle jerks without wheelies.',
@@ -659,7 +659,7 @@ export const ARTICLES: Article[] = [
     },
     publishDate: 'October 4, 2026',
     readTime: '8 min read',
-    image: '/src/assets/images/heavy_cruiser_vtwin_1791972606364.jpg',
+    image: '/images/heavy_cruiser_vtwin.jpg',
     imageCaption: 'A high-displacement performance V-twin cruiser parked beside a desert canyon road, illustrating raw low-end twisting torque.',
     keyTakeaways: [
       'Torque (lb-ft or Nm) is the direct rotational twisting force produced at the crankshaft per combustion cycle.',
@@ -811,7 +811,7 @@ export const ARTICLES: Article[] = [
     },
     publishDate: 'October 2, 2026',
     readTime: '12 min read',
-    image: '/src/assets/images/racetrack_superbike_apex_1791972607210.jpg',
+    image: '/images/racetrack_superbike_apex.jpg',
     imageCaption: 'A factory 1000cc superbike carving an apex curbing at full throttle, demonstrating raw race-developed aerodynamic stability.',
     keyTakeaways: [
       'The factory supercharged Kawasaki Ninja H2R stands alone at 310 HP (326 HP with ram-air), holding the all-time closed-course production record.',
@@ -971,7 +971,7 @@ export const ARTICLES: Article[] = [
     },
     publishDate: 'September 28, 2026',
     readTime: '9 min read',
-    image: '/src/assets/images/heritage_cafe_racer_1791972608497.jpg',
+    image: '/images/heritage_cafe_racer.jpg',
     imageCaption: 'A heritage twin-cylinder motorcycle outside an artisan brick roastery, showcasing air-cooled displacement vs modern multi-valve power density.',
     keyTakeaways: [
       'Engine CC (cubic centimeters) measures swept cylinder volume, not combustion power output.',
@@ -1127,7 +1127,7 @@ export const ARTICLES: Article[] = [
     },
     publishDate: 'September 24, 2026',
     readTime: '10 min read',
-    image: '/src/assets/images/torque_roadster_naked_1791972581413.jpg',
+    image: '/images/torque_roadster_naked.jpg',
     imageCaption: 'A contemporary matte-green naked streetfighter with accessible ergonomics and broad handlebars for effortless low-speed maneuvering.',
     keyTakeaways: [
       'The ideal horsepower range for 95% of new motorcyclists is 35 to 50 HP.',
@@ -1281,7 +1281,7 @@ export const ARTICLES: Article[] = [
     },
     publishDate: 'September 20, 2026',
     readTime: '10 min read',
-    image: '/src/assets/images/superbike_cockpit_dash_1791972581106.jpg',
+    image: '/images/superbike_cockpit_dash.jpg',
     imageCaption: 'The high-tech cockpit of an open-class superbike showing full-color telemetry, clip-on angle, and Brembo master cylinders.',
     keyTakeaways: [
       'Street Bikes (Nakeds): 65 to 130 HP, wide one-piece handlebars, upright seating, and tuned for thick low-to-midrange torque.',
@@ -1439,7 +1439,7 @@ export const ARTICLES: Article[] = [
     },
     publishDate: 'September 16, 2026',
     readTime: '11 min read',
-    image: '/src/assets/images/adventure_tourer_motorcycle_1791972607698.jpg',
+    image: '/images/adventure_tourer_motorcycle.jpg',
     imageCaption: 'A versatile modern adventure tourer equipped with rugged luggage panniers, illustrating long-range riding style selection.',
     keyTakeaways: [
       'The Golden Budget Rule: Never spend 100% of your budget on the motorcycle itself; reserve 25% to 30% for quality safety gear, insurance, and maintenance.',
